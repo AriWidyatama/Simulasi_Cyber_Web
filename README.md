@@ -1,6 +1,6 @@
 # Simulasi Penyerangan dan Pencegahan Cyber Security
 
-### Simulasi berfocus kepada website dengan tema perpus yang memiliki 2 sesi login yaitu user dan admin
+### Simulasi berfocus kepada website dengan tema perpus yang memiliki 2 sesi login yaitu user dan admin, dengan langkah-langkah sebagai berikut:
 
 ## Clone Project
 - Pindahkan terminal atau CMD ke folder yang diinginkan
